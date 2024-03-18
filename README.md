@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Deep Learning and Natural Language Processing 
 - 📫 My E-mail: 1031408552@qq.com  
 
-  ***Come and play with me~***
+  ***Welcome to communicate with me~***
 
 <!---
 DUT-lujunyu/DUT-lujunyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
